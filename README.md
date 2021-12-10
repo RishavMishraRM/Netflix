@@ -7,4 +7,4 @@ There are two main types of recommendation systems: collaborative filtering and 
 1. Content-based recommendation systems recommend particular items based on previously chosen items’ features. For example, if I watched a lot of action movies previously, it would rank other action movies higher.
 2. Collaborative filtering, on the other hand, filters items that a user might like based on the reactions of similar users. For example, if I liked Song A and someone else liked Song A and Song C, then I would be recommended Song C.
 
-Recommendation systems are one of the most widely used and most practical data science applications. Not only that, but it also has one of the highest ROIs when it comes to data products
+Recommendation systems are one of the most widely used and most practical data science applications. Not only that, but it also has one of the highest ROIs when it comes to data products.  It’s estimated that Amazon increased its sales by 29% in 2019, specifically due to its recommendation system. 
