@@ -4,4 +4,4 @@ Recommendation systems are algorithms with an objective to suggest the most rele
 
 There are two main types of recommendation systems: collaborative filtering and content-based filtering :-
 
-1. There are two main types of recommendation systems: collaborative filtering and content-based filtering.
+1. Content-based recommendation systems recommend particular items based on previously chosen items’ features. For example, if I watched a lot of action movies previously, it would rank other action movies higher.
