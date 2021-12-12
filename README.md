@@ -8,3 +8,5 @@ There are two main types of recommendation systems: collaborative filtering and 
 2. Collaborative filtering, on the other hand, filters items that a user might like based on the reactions of similar users. For example, if I liked Song A and someone else liked Song A and Song C, then I would be recommended Song C.
 
 Recommendation systems are one of the most widely used and most practical data science applications. Not only that, but it also has one of the highest ROIs when it comes to data products.  It’s estimated that Amazon increased its sales by 29% in 2019, specifically due to its recommendation system. As well, Netflix claimed that its recommendation system was worth a staggering $1 billion in 2016!
+
+But what makes it so profitable? As I alluded to earlier, it’s about one thing: relevancy.
