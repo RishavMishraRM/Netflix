@@ -9,4 +9,4 @@ There are two main types of recommendation systems: collaborative filtering and 
 
 Recommendation systems are one of the most widely used and most practical data science applications. Not only that, but it also has one of the highest ROIs when it comes to data products.  It’s estimated that Amazon increased its sales by 29% in 2019, specifically due to its recommendation system. As well, Netflix claimed that its recommendation system was worth a staggering $1 billion in 2016!
 
-But what makes it so profitable? As I alluded to earlier, it’s about one thing: relevancy.
+But what makes it so profitable? As I alluded to earlier, it’s about one thing: relevancy. By providing users with more relevant products, shows, or songs, you’re ultimately increasing their likelihood to purchase more and/or stay engaged longer.
